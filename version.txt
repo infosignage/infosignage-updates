@@ -1,2 +1,2 @@
-version=3.6.2
-url=https://github.com/infosignage/infosignage-updates/releases/download/v3.6.2/infosignage_update_3.6.2.bin
+version=3.6.3
+url=https://github.com/infosignage/infosignage-updates/releases/download/v3.6.3/infosignage_update_3.6.3.bin
